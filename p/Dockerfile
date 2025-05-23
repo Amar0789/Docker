@@ -1,2 +1,2 @@
-FROM alpine
+FROM almalinux
 RUN dnf install nginx -y 
