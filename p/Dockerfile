@@ -1,1 +1,1 @@
-FROM almalinux
+FROM alphine-slim
