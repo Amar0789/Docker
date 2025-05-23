@@ -1,1 +1,1 @@
-FROM alpine-slim
+FROM alpine
